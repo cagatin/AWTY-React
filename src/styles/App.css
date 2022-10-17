@@ -1,0 +1,14 @@
+body {
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+:root {
+    --switch1-theme: #000;
+    --switch2-theme: #fff;
+    --theme-color: #f5cb5c;
+    --text-theme: #14213d;
+}
+
+.main-section {
+    min-height: 100vh;
+}
